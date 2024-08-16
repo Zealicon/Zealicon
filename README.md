@@ -20,7 +20,6 @@
 <a href="https://www.geeksforgeeks.org/user/zealicon2004/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/zealicon2004/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25349586/zealicon2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="mailto:priyanshujaiswal2203@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 
